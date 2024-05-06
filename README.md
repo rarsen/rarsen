@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arsen Florykian</h1>
 <h3 align="center">A passionate software developer from Ukraine.</h3>
 
+-🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Python Automation, React, Node.js**
 
