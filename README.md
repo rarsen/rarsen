@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Arsen Florykian</h1>
-<h3 align="center">A passionate software developer from Ukraine.</h3>
+<h3 align="center">A passionate backend developer from Ukraine.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Python Automation, React, Node.js**
+- 🌱 I’m currently learning **Node.js*
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **JavaScript **
 
 - 📫 How to reach me **https://www.linkedin.com/in/arsen-florikyan-623326234/**
 
