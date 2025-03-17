@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Node.js*
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **JavaScript **
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arsen-florikyan-623326234/**
 
